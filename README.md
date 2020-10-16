@@ -7,7 +7,7 @@ Note: Even though we split up the problems amongst each other, we all helped eac
 
 William did problems 1, 2, 9, and 10. Being the project manager, William set up both meetings and assigned everyone problems to do within a certain timeframe. He also led the meetings and made himself the most available to help anyone who needed help with their assigned problems. William put together the barebones analysis PDF and ensured everyone cooperated by asking everyone for their input.
 
-Stephen did problems 6, 7, and 8. Stephen wrote the analysis for problems 6-8 (the most difficult problems). Being the timekeeper, Stephen ensured every team member attended the meeting by bringing us all together in voice chat.
+Stephen did problems 6, 7, 8, and helped with problem 9. Stephen wrote the analysis for problems 6-8 (the most difficult problems). Being the timekeeper, Stephen ensured every team member attended the meeting by bringing us all together in voice chat.
 
 Jasmine did problems 3, 4, and 5. Being the scribe, Jasmine filled out every meeting minutes template. Jasmine also cooperated toward a lot of the analysis problems. She helped Stephen a lot with problem 8.
 
